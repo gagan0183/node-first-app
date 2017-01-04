@@ -1,0 +1,24 @@
+{
+  "name": "nodefirstapp",
+  "version": "1.0.0",
+  "description": "The code rep for node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagan0183/node-first-app.git"
+  },
+  "author": "Gagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagan0183/node-first-app/issues"
+  },
+  "homepage": "https://github.com/gagan0183/node-first-app#readme",
+  "dependencies": {
+    "ejs": "^2.5.5",
+    "express": "^4.14.0",
+    "instagram-node": "^0.5.8"
+  }
+}
